@@ -3,6 +3,8 @@ Present-8bit
 
 An 8-bit Implementation of the PRESENT block cipher in C
 
+https://en.wikipedia.org/wiki/PRESENT_(cipher)
+
 Supports ECB and CBC encryption modes with 80 or 128 bit keys
 
 Usage:

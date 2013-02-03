@@ -48,4 +48,5 @@ int main(){
         printMessage( workingCopy128 );
     }
     printf( "%s\n", (pass ? "PASS" : "FAIL") );
+    return 0;
 }
